@@ -1,0 +1,97 @@
+#background{
+	background-color: #353535;
+}
+#layout{
+	width: 1200px;
+	height: 680px;
+	margin: 0px auto;
+	background-color: black;
+}
+#header{
+	background-color: black;
+	width: 1200px;
+	height: 75px;
+	float: left;
+}
+#logo{
+	background-image: url(../Images/logo.jpeg);
+	background-color: #5facf8;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	width: 90px;
+	height: 75px;
+	float: left;
+}
+#headerMenu{
+	width: 1110px;
+	height: 75px;
+	float: left;
+	text-align: right;
+}
+#headerOptions .menu {
+	color: white;
+	display: inline-block;
+	text-align: right;
+	font-family: Helvetica;
+	font-size: 20px;
+	padding-right: 10px;
+	padding-top: 2.5%;
+	padding-left: 10px;
+
+}
+
+#content{
+	width: 1200px;
+	height: 580px;
+	float: left;
+
+}
+#game{
+	background-image: url(../Images/SuperMario.png);
+	background-color: #5facf8;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	width: 1200px;
+	height: 550px;
+	float: left;
+}
+#gameMenu{
+	background-color: #564e4e;
+	width: 1200px;
+	height: 30px;
+	float: left;
+}
+#gameOptions .menu {
+	color: white;
+	display: inline-block;
+	text-align: left;
+	font-family: Helvetica;
+	font-size: 14px;
+	padding-right: 10px;
+	padding-top: 0.5%;
+	padding-left: 10px;
+}
+#footer{
+	background-color: black;
+	width: 1200px;
+	height: 25px;
+	float:left;
+	color:white;
+	text-align: center;
+	font-size: 15px;
+
+}
+#footerMenu .menu {
+	color: gray;
+	display: inline-block;
+	text-align: center;
+	font-size: 12px;
+	font-family: Helvetica;
+	padding-right: 10px;
+	padding-top: 0.5%;
+	padding-left: 10px;
+}
+
+a:visited {
+	color: black;
+}
