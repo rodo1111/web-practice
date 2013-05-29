@@ -14,7 +14,7 @@
 	float: left;
 }
 #logo{
-	background-image: url(../Images/logo.jpeg);
+	background-image: url(../images/logo.jpeg);
 	background-color: #5facf8;
 	background-size:100% 100%;
 	background-repeat:no-repeat;
@@ -47,7 +47,7 @@
 
 }
 #game{
-	background-image: url(../Images/SuperMario.png);
+	background-image: url(../images/background.png);
 	background-color: #5facf8;
 	background-size:100% 100%;
 	background-repeat:no-repeat;
